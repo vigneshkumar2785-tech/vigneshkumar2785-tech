@@ -191,7 +191,7 @@ An assortment of end-to-end full-stack systems prioritizing asynchronous request
 
 | Target Sector | Recognition & Milestones |
 | :--- | :--- |
-| **Academic Excellence** | Pursuing Computer Science Engineering degree at PSR Engineering maintaining rigorous engineering discipline. |
+| **Academic Excellence** | Pursuing Computer Science Engineering degree at PSR Engineering College maintaining rigorous engineering discipline. |
 | **Technical Milestones** | Developed robust predictive deep learning pipelines targeting complex real-world financial vectors. |
 | **Community & Code** | Actively designing and open-sourcing clean, documentation-driven micro-applications. |
 
