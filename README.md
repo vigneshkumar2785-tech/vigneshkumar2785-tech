@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=11,13,25,32&height=280&section=header&text=Vignesh%20Kumar%20S&fontSize=55&fontColor=ffffff&animation=twinkling" alt="Vignesh Kumar S Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=130CB7,5222D0,9061FF&height=280&section=header&text=Vignesh%20Kumar%20S&fontSize=55&fontColor=ffffff&animation=twinkling" alt="Vignesh Kumar S Banner" />
 
   <br />
 
