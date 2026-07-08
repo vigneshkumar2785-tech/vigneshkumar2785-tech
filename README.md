@@ -1,7 +1,7 @@
 <div align="center">
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0A192F,1B365D,D4AF37,F3E5AB&height=280&section=header&text=Vignesh%20Kumar%20S&fontSize=55&fontColor=ffffff&animation=twinkling" alt="Vignesh Kumar S Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0A192F,D4AF37&height=280&section=header&text=Vignesh%20Kumar%20S&fontSize=55&fontColor=ffffff&animation=twinkling" alt="Vignesh Kumar S Banner" />
   <br />
- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=021F11,0A3A20,00E676,B9F6CA&height=280&section=header&text=Vignesh%20Kumar%20S&fontSize=55&fontColor=ffffff&animation=twinkling" alt="Vignesh Kumar S Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=021F11,00E676&height=280&section=header&text=Vignesh%20Kumar%20S&fontSize=55&fontColor=ffffff&animation=twinkling" alt="Vignesh Kumar S Banner" />
 
   <br />
 
