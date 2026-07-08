@@ -1,22 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=021F11,00E676&height=280&section=header&text=Vignesh%20Kumar%20S&fontSize=55&fontColor=ffffff&animation=twinkling" alt="Vignesh Kumar S Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=130CB7,5222D0,9061FF&height=280&section=header&text=Vignesh%20Kumar%20S&fontSize=55&fontColor=ffffff&animation=twinkling" alt="Vignesh Kumar S Banner" />
 
   <br />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00E676&center=true&vCenter=true&width=700&lines=Final+Year+Computer+Science+Engineer;AI+%2F+Machine+Learning+Engineer;Full+Stack+Java+%26+React+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9061FF&center=true&vCenter=true&width=700&lines=Final+Year+Computer+Science+Engineer;AI+%2F+Machine+Learning+Engineer;Full+Stack+Java+%26+React+Developer" alt="Typing SVG" />
 
   <br />
 
-  [![Academic - PSR Engineering College](https://img.shields.io/badge/Academic-PSR%20Engineering%20College-0A3A20?style=for-the-badge&logo=education&logoColor=white)](#)
-  [![Role - Software Engineer](https://img.shields.io/badge/Role-Software%20Engineer-00E676?style=for-the-badge&logo=software&logoColor=black)](#)
-  [![Focus - AI / ML Engineer](https://img.shields.io/badge/Focus-AI%20%2F%20ML%20Engineer-021F11?style=for-the-badge&logo=probot&logoColor=white)](#)
+  [![Academic - PSR Engineering College](https://img.shields.io/badge/Academic-PSR%20Engineering%20College-4A00E0?style=for-the-badge&logo=education&logoColor=white)](#)
+  [![Role - Software Engineer](https://img.shields.io/badge/Role-Software%20Engineer-0072B1?style=for-the-badge&logo=software&logoColor=white)](#)
+  [![Focus - AI / ML Engineer](https://img.shields.io/badge/Focus-AI%20%2F%20ML%20Engineer-7F00FF?style=for-the-badge&logo=probot&logoColor=white)](#)
 
   <br />
 
   [![Email](https://img.shields.io/badge/Email-vigneshkumar2785.tech%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vigneshkumar2785.tech@gmail.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vignesh%20Kumar%20S-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
   [![GitHub Followers](https://img.shields.io/github/followers/vigneshkumar2785-tech?label=Followers&style=flat-square&color=6e5494&logo=github)](https://github.com/vigneshkumar2785-tech)
-  [![Profile Views](https://komarev.com/ghpvc/?username=vigneshkumar2785-tech&color=00E676&style=flat-square&label=Profile+Views)](https://github.com/vigneshkumar2785-tech)
+  [![Profile Views](https://komarev.com/ghpvc/?username=vigneshkumar2785-tech&color=8A2BE2&style=flat-square&label=Profile+Views)](https://github.com/vigneshkumar2785-tech)
 
 </div>
 
@@ -214,7 +214,7 @@ An assortment of end-to-end full-stack systems prioritizing asynchronous request
 ## 📅 System Contribution Vectors
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshkumar2785-tech&bg_color=021F11&color=00E676&line=00E676&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vigneshkumar2785-tech&bg_color=0f111a&color=7f00ff&line=9061ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
