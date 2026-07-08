@@ -3,18 +3,18 @@
 
   <br />
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9061FF&center=true&vCenter=true&width=700&lines=Final+Year+Computer+Science+Engineer;AI+%2F+Machine+Learning+Engineer;Full+Stack+Java+%26+React+Developer;Passionate+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=9061FF&center=true&vCenter=true&width=700&lines=Final+Year+Computer+Science+Engineer;AI+%2F+Machine+Learning+Engineer;Full+Stack+Java+%26+React+Developer" alt="Typing SVG" />
 
   <br />
 
-  [![Academic - P.S.R Engineering College](https://img.shields.io/badge/Academic-P.S.R%20Engineering%20College-4A00E0?style=for-the-badge&logo=education&logoColor=white)](http://www.psr.edu.in/)
+  [![Academic - PSR Engineering College](https://img.shields.io/badge/Academic-PSR%20Engineering%20College-4A00E0?style=for-the-badge&logo=education&logoColor=white)](#)
   [![Role - Software Engineer](https://img.shields.io/badge/Role-Software%20Engineer-0072B1?style=for-the-badge&logo=software&logoColor=white)](#)
   [![Focus - AI / ML Engineer](https://img.shields.io/badge/Focus-AI%20%2F%20ML%20Engineer-7F00FF?style=for-the-badge&logo=probot&logoColor=white)](#)
 
   <br />
 
   [![Email](https://img.shields.io/badge/Email-vigneshkumar2785.tech%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:vigneshkumar2785.tech@gmail.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vignesh%20Kumar%20S-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vignesh-kumar-s-374665249)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Vignesh%20Kumar%20S-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com)
   [![GitHub Followers](https://img.shields.io/github/followers/vigneshkumar2785-tech?label=Followers&style=flat-square&color=6e5494&logo=github)](https://github.com/vigneshkumar2785-tech)
   [![Profile Views](https://komarev.com/ghpvc/?username=vigneshkumar2785-tech&color=8A2BE2&style=flat-square&label=Profile+Views)](https://github.com/vigneshkumar2785-tech)
 
@@ -24,7 +24,7 @@
 
 ## 💻 Professional About Me
 
-An engineering mind dedicated to building scalable, intelligent systems. As a Final Year Computer Science Engineering student at **P.S.R Engineering College**, I bridge the gap between robust backend software engineering and production-grade Artificial Intelligence. 
+An engineering mind dedicated to building scalable, intelligent systems. As a Final Year Computer Science Engineering student at **PSR Engineering College**, I bridge the gap between robust backend software engineering and production-grade Artificial Intelligence. 
 
 My technical approach relies on **Clean Architecture**, deterministic problem solving via rigorous **Data Structures & Algorithms**, and full-stack integration using Java, Python, and modern JavaScript frameworks. Whether optimizing deep learning architectures for predictive analysis or deploying high-performance microservices via FastAPI, I design software with performance, scalability, and security in mind.
 
@@ -191,7 +191,7 @@ An assortment of end-to-end full-stack systems prioritizing asynchronous request
 
 | Target Sector | Recognition & Milestones |
 | :--- | :--- |
-| **Academic Excellence** | Pursuing Computer Science Engineering degree maintaining rigorous engineering discipline. |
+| **Academic Excellence** | Pursuing Computer Science Engineering degree at PSR Engineering maintaining rigorous engineering discipline. |
 | **Technical Milestones** | Developed robust predictive deep learning pipelines targeting complex real-world financial vectors. |
 | **Community & Code** | Actively designing and open-sourcing clean, documentation-driven micro-applications. |
 
@@ -209,15 +209,9 @@ An assortment of end-to-end full-stack systems prioritizing asynchronous request
 ## 📊 Coders Matrix Profiles
 
 <div align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge" />
-  </a>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge" />
+  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge" />
+  <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank Badge" />
 </div>
 
 ---
@@ -228,28 +222,13 @@ An assortment of end-to-end full-stack systems prioritizing asynchronous request
   <table width="100%">
     <tr>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=vigneshkumar2785-tech&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%" alt="Vignesh's GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=vigneshkumar2785-tech&show_icons=true&theme=dark&count_private=true&hide_border=true" width="100%" alt="Vignesh's GitHub Stats" />
       </td>
       <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshkumar2785-tech&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Vignesh's Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshkumar2785-tech&theme=tokyonight&hide_border=true" width="100%" alt="Vignesh's Streak Stats" />
-      </td>
-      <td width="50%">
-         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vigneshkumar2785-tech&theme=tokyonight" width="100%" alt="Profile Summary Card" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshkumar2785-tech&layout=compact&theme=dark&hide_border=true" width="100%" alt="Vignesh's Top Languages" />
       </td>
     </tr>
   </table>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vigneshkumar2785-tech&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
 </div>
 
 ---
