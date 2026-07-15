@@ -24,7 +24,7 @@
 
 ## 💻 Professional About Me
 
-An engineering mind dedicated to building scalable, intelligent systems. As a Final Year Computer Science Engineering student at **PSR Engineering College**, I bridge the gap between robust backend software engineering and production-grade Artificial Intelligence. 
+An engineering mind dedicated to building scalable, intelligent systems. As a Final Year Computer Science Engineering student at **PSR Engineering College**, I bridge the gap between robust backend software engineering and production-grade Artificial Intelligence.
 
 My technical approach relies on **Clean Architecture**, deterministic problem solving via rigorous **Data Structures & Algorithms**, and full-stack integration using Java, Python, and modern JavaScript frameworks. Whether optimizing deep learning architectures for predictive analysis or deploying high-performance microservices via FastAPI, I design software with performance, scalability, and security in mind.
 
@@ -228,3 +228,4 @@ Exploring: "Zero Trust Architecture Patterns & Robust Identity Assertion Vectors
 Reading: "Clean Architecture: A Craftsman's Guide to Software Structure and Design"
 Contributing: "Open Source Ecosystems, Package Maintainers, & Local Technical Frameworks"
 Seeking: "Full-Time Software Engineering, AI/ML Engineering, or Full Stack Developer Roles"
+```
